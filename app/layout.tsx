@@ -49,7 +49,7 @@ export default function RootLayout({
 
         {/* Footer */}
         <footer className="py-8 text-center text-neutral-500 text-sm border-t border-neutral-900 mt-20">
-          <p>© {new Date().getFullYear()} Studio Name. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Jagtap Studio. All rights reserved.</p>
         </footer>
       </body>
     </html>
